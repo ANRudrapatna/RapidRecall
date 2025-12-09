@@ -1,5 +1,5 @@
 ## UCSC Genome Browser Visualizations
-Track data hubs can be used to visualize genomics signal tracks using the UCSC Genome Browser (for more information, please see the [Raney et al., 2014 (https://academic.oup.com/bioinformatics/article/30/7/1003/232409)] publication.
+Track data hubs can be used to visualize genomics signal tracks using the UCSC Genome Browser (for more information, please see the [Raney et al., 2014](https://academic.oup.com/bioinformatics/article/30/7/1003/232409) publication.
 
 We developed a track data hub to visualize maxATAC-derived _in-silico_ ChIP-seq datasets in tandem with chromatin accessibility data. Data can be explored in multiple ways using this tool. 
 
